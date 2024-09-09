@@ -1,0 +1,12 @@
+com\laboratorio\persistencia08\persistencia\AlumnoDB.class
+com\laboratorio\persistencia08\dto\ResumenAlumnoDTO.class
+com\laboratorio\persistencia08\dao\CursoDAO.class
+com\laboratorio\persistencia08\dao\impl\AlumnoDAOImpl.class
+com\laboratorio\persistencia08\persistencia\CursoDB.class
+com\laboratorio\persistencia08\Persistencia08.class
+com\laboratorio\persistencia08\dto\EstadisticaDTO.class
+com\laboratorio\persistencia08\dao\impl\CursoDAOImpl.class
+com\laboratorio\persistencia08\dto\ResumenCursoDTO.class
+com\laboratorio\persistencia08\entidades\Curso.class
+com\laboratorio\persistencia08\entidades\Alumno.class
+com\laboratorio\persistencia08\dao\AlumnoDAO.class
