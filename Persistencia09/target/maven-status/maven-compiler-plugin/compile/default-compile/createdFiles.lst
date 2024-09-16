@@ -1,0 +1,9 @@
+com\laboratorio\persistencia09\dao\PersonaDAO.class
+com\laboratorio\persistencia09\modelo\Persona.class
+com\laboratorio\persistencia09\resources\JavaEE8Resource.class
+com\laboratorio\persistencia09\controlador\PersonasController.class
+com\laboratorio\persistencia09\persistencia\ConnectionPoolManager.class
+com\laboratorio\persistencia09\modelo\PersonaDB.class
+com\laboratorio\persistencia09\modelo\PersonaRequest.class
+com\laboratorio\persistencia09\dao\impl\PersonaDAOImpl.class
+com\laboratorio\persistencia09\JAXRSConfiguration.class
